@@ -1,7 +1,3 @@
-  ;; (add-to-list 'load-path "~/emacs2/emacs")
-  ;; (add-to-list 'load-path "~/emacs2/tmux-integration")
-  ;; (require 'init)
-
 ;; Set up package.el to work with MELPA
 (require 'package)
 (setq package-enable-at-startup nil)
