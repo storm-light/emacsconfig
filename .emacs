@@ -22,7 +22,7 @@
 (use-package doom-modeline
   :ensure t
   :init (doom-modeline-mode 1))
-(load-theme 'doom-one t)
+(load-theme 'doom-city-lights t)
 
 (use-package ivy
   :ensure t
